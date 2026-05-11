@@ -1,4 +1,4 @@
-# 🚀Microsoft Entra ID Lifecycle Automation (MSP Simulation Toolkit)
+# Microsoft Entra ID Lifecycle Automation (MSP Simulation Toolkit)
 
 A PowerShell-based automation toolkit for Microsoft Entra ID (Azure AD) user lifecycle management, designed for onboarding and offboarding users in a Managed Service Provider (MSP) or enterprise environment.
 
